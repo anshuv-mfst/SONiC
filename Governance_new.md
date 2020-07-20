@@ -1,4 +1,4 @@
-# Software for Open Networking in the Cloud - SONiC
+# Software for Open Networking in the Cloud - SONiC (Work-in-progress)
 ## Governance
 
 ## Principles
